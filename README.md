@@ -5,7 +5,7 @@ The project aims at manipulating and processing a data set offered by a section 
 
 ## About the project
 
-This project has been developed within the NF26 course (image analysis and synthesis) of the [University of Technology of Compiègne](https://www.utc.fr/). 
+This project has been developed within the NF26 course (Data warehouse and decision-making tools) of the [University of Technology of Compiègne](https://www.utc.fr/). 
 
 ### Authors
 **Emma Parois**
